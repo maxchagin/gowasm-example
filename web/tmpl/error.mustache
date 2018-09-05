@@ -1,0 +1,11 @@
+<div class="error">
+	<h2>Oops!</h2>
+	<b>{{Response.Status}}</b>
+  {{# Result.Message}}
+    <p><i>{{Result.Message}}</i></p>
+  {{/ Result.Message}}
+  {{# Result.DocumentationURL}}
+    <a target="_blank" href="{{Result.DocumentationURL}}">{{Result.DocumentationURL}}</a>
+  {{/ Result.DocumentationURL}}
+	<p>Please try searching again.</p>
+</div>
