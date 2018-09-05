@@ -1,9 +1,3 @@
-// package main
-//
-// func main() {
-// 	println("Hello, WebAssembly!")
-// }
-
 package main
 
 import (
