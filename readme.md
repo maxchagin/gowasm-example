@@ -16,3 +16,6 @@ Example of manipulation with DOM, working with the template and generating queri
 
 ### Browser
 Open page http://localhost:8080/web/wasm_exec.html
+
+### Demo
+http://wasm.populars.ru/web/wasm_exec.html
