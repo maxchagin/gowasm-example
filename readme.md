@@ -1,4 +1,4 @@
-# Golang webassembly experiment
+# Go wasm example
 
 ## Search users by Github on gowasm
 Example of manipulation with DOM, working with the template and generating queries
